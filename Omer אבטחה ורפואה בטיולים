@@ -77,10 +77,9 @@
 </head>
 <body>
 
-<header>
-    <img src="https://via.placeholder.com/100x100?text=OMER" alt="OMER Logo">
-    <h1>עומר אבטחה רפואית</h1>
+ <h1>עומר אבטחה רפואית</h1>
     <p>טיולים עם תחושת ביטחון!</p>
-</header>
+    <p>0584181598</p>
 
-<section class="hero
+
+</body>
